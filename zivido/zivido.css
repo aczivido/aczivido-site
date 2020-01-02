@@ -1,0 +1,41 @@
+body {
+	background-color: #22DCFF;
+}
+p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	text-align: justify;
+}
+h1 {
+	font-family: Times New Roman, Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+p.piepagina {
+	font-size: 8pt;
+	font-weight: normal;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+a {
+	color: #0000FF;
+}
+h3 {
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h2 {
+	font-size: 36px;
+	font-style: italic;
+	font-weight: bold;
+	color: #FFFF00;
+}
+.citazione {
+	font-style: italic;
+}
+.citazione2 {
+	font-weight: bold;
+	text-align: center;
+}

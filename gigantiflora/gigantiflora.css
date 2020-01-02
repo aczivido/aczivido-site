@@ -1,0 +1,38 @@
+body {
+	background-attachment: scroll;
+	background-image: url(/gigantiflora/logogr.png);
+	background-repeat: no-repeat;
+	background-color: #006a46;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12pt;
+	color: #FFFFFF;
+	text-align: justify;
+	line-height: 14pt;
+}
+h1 {
+	font-size: 18pt;
+	color: #FF0000;
+}
+p.piepagina {
+	font-size: 8pt;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h5 {
+	color: #006600;
+}
+p {
+	text-align: justify;
+}
+a {
+	color: #FFFF22;
+}
+.citazione {
+	font-style: italic;
+}
+h4 {
+	font-weight: bold;
+	color: #FFFFFF;
+}

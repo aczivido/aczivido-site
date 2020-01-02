@@ -1,0 +1,69 @@
+body {
+	font-size: 80%;
+	color: white;
+	background: black;
+	font-family: Verdana, Arial, Helvetica, Lucida, sans-serif;
+	scrollbar-arrow-color: #888888;
+	scrollbar-face-color: black;
+	scrollbar-track-color: black;
+	scrollbar-3dlight-color: black;
+	scrollbar-darkshadow-color: black;
+	scrollbar-highlight-color: #888888;
+	scrollbar-shadow-color: #888888;
+}
+
+td {
+	font-size: 80%;
+}
+
+span.caption {
+	font-size: 100%;
+}
+
+img.small {
+	border: 1px solid black;
+}
+
+img.medium {
+	border: 1px solid black;
+	margin-top: 1em;
+}
+
+span.title,td.title {
+	color: white;
+	font-size: 130%;
+	font-weight: bold;
+	padding-bottom: 0em;
+	padding-top: .6em;
+	margin-bottom: 0em;
+	margin-top: 0em;
+}
+
+table.paper,td.paper {
+	background: #191919;
+}
+
+.footer {
+	color: gray;
+}
+
+div.footer {
+	font-size: 80%;
+	text-align: right;
+	margin-top: .5em;
+	margin-bottom: 1.5em;
+}
+
+a {
+	color: white;
+	text-decoration: underline;
+}
+
+a.control {
+	color: gray;
+	font-size: 80%;
+}
+
+a:hover {
+	color: white;
+}

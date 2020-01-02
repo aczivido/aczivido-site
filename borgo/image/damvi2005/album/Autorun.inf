@@ -1,0 +1,4 @@
+[autorun]
+action=Show Porta Album
+shellexecute=index.html
+icon=porta.ico

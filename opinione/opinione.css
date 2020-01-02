@@ -1,0 +1,35 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	text-align: justify;
+}
+a {
+	color: #0000FF;
+}
+h2 {
+	font-size: 11px;
+	font-weight: bold;
+}
+h1 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #355E8F;
+}
+p.contatore {
+	text-align: right;
+}
+p {
+	text-align: justify;
+	font-size: 11px;
+}
+.commento {
+	color: #FF0000;
+}
+p.piepagina {
+	text-align: center;
+}
+p.commenti {
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 12px;
+}

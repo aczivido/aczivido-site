@@ -1,2 +1,2 @@
 # aczivido-site
-Content of http://aczivido.net
+Content of https://aczivido.github.io/aczivido-site/
